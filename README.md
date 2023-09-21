@@ -1,3 +1,5 @@
+Hi Hawks! Don't hesitate to modify this or add other Q&A, I did it really quickly, its not as readable as it could be
+
 ====Discord Q&A=====
 
 >Q: The ERC20 tokens the VaultFacet refers to are the pegged assets in the system, right?
